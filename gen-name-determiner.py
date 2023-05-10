@@ -1,4 +1,5 @@
 #gen. name determiner#
+#not a real program, was just playing around.#
 usr_yr = int(input('What year were you born? '))
 if usr_yr >= 1925 and usr_yr < 1947:
   print('Your generation name is', '\033[30m', 'Traditionalists', '\033[0m')
